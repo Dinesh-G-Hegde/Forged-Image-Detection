@@ -106,9 +106,9 @@
      <colorrole role="Window">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>102</red>
-        <green>102</green>
-        <blue>102</blue>
+        <red>153</red>
+        <green>204</green>
+        <blue>204</blue>
        </color>
       </brush>
      </colorrole>
@@ -226,8 +226,8 @@
       <brush brushstyle="SolidPattern">
        <color alpha="255">
         <red>255</red>
-        <green>255</green>
-        <blue>255</blue>
+        <green>250</green>
+        <blue>250</blue>
        </color>
       </brush>
      </colorrole>
@@ -426,7 +426,7 @@
    </palette>
   </property>
   <property name="windowTitle">
-   <string>Image Forgery Detection</string>
+   <string>Forged Image Detection System</string>
   </property>
   <property name="autoFillBackground">
    <bool>true</bool>
